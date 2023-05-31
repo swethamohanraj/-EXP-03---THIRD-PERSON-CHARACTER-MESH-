@@ -1,6 +1,6 @@
 # EXP 03 - THIRD PERSON CHARACTER MESH:
 
-###### NAME:K.M.Swetha
+###### NAME: K.M.Swetha
 ###### REG NO: 212221240055 
 
 ## AIM:
